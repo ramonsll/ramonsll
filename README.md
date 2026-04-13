@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Ramon 👋🇧🇷</h1>
+<h1 align="center">oii, eu sou Ramon 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px">
