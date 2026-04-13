@@ -1,24 +1,28 @@
-<h1 align="center">Hi, I'm Ramon 👋🇧🇷</h1>
+<h1 align="center">Olá, eu sou Ramon 👋🇧🇷</h1>
 
 <p align="center">
-💻 Web Developer • 🎨 Front-end Focus • 📊 Data Analysis Enthusiast
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px">
+</p>
+
+<p align="center">
+💻 Desenvovlimento Web • Foco em Front-end • Interessado em Análise de Dados
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-I'm a Computer Science student passionate about technology and problem solving.
+Sou estudante de Ciência da Computação.
 
-Currently, I have been working in **web development**, with a stronger focus on the **front-end**, building modern, responsive and user-friendly interfaces.
+Atualmente, tenho atuado na área de **desenvolvimento web**, com maior foco no **front-end**, criando interfaces modernas, responsivas e focadas na experiência do usuário.
 
-I also have a growing interest in **Data Analysis**, exploring how data can be used to generate insights and support decision-making.
+Além disso, venho desenvolvendo interesse na área de **Análise de Dados**, buscando entender como dados podem gerar insights e apoiar tomadas de decisão :)
 
 ---
 
-## 🚀 Technologies & Tools
+## 🚀 Tecnologias e Ferramentas
 
-### 🎨 Front-end
+### Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,47 +31,32 @@ I also have a growing interest in **Data Analysis**, exploring how data can be u
 
 ---
 
-### ⚙️ Back-end & Tools
+### Back-end e Ferramentas
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
-### 💻 Languages
+### Linguagens
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-### 🎨 Design
+### Design
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 Currently Exploring
+## 📊 Quero aprender
 
-- Data Analysis 📈  
-- Algorithms & Graph Theory  
-- Backend development with Python  
-
----
-
-## 🗺️ Featured Project
-
-**Route Optimization System using Dijkstra Algorithm**
-
-A system that calculates the shortest path between cities using graph theory.
-
-**Technologies used:**
-- Python + Flask  
-- NetworkX  
-- Leaflet + OpenStreetMap  
-- Graphviz  
+- Análise de Dados  
+- Desenvolvimento Back-end 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
@@ -76,10 +65,10 @@ A system that calculates the shortest path between cities using graph theory.
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN">
+  <a href="https://www.linkedin.com/in/ramon-lima-1401b6334/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
@@ -87,5 +76,5 @@ A system that calculates the shortest path between cities using graph theory.
 ---
 
 <p align="center">
-✨ Always learning and building new things ✨
+Tentando sempre aprender e evoluir <3 
 </p>
