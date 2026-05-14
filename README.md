@@ -12,9 +12,9 @@ My name is Ramon, and I am an undergraduate student in Computer Science at the S
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,java,spring,python,flask,postgres,mysql,c,cpp,git,github,vscode,idea&perline=9" />
 </p>
 
-## 📬 Contact Me
+## Contact Me ✧.*
 
-<p align="center">
+<p align="">
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
