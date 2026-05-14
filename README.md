@@ -11,3 +11,14 @@ My name is Ramon, and I am an undergraduate student in Computer Science at the S
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,java,spring,python,flask,postgres,mysql,c,cpp,git,github,vscode,idea&perline=9" />
 </p>
+
+## Contact Me
+
+<p align="center">
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/seuuser">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
