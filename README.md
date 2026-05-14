@@ -14,11 +14,11 @@ My name is Ramon, and I am an undergraduate student in Computer Science at the S
 
 ## Contact Me
 
-<p align="center">
-  <a href="mailto:seuemail@email.com">
+<p align="center>
+  <a href="mailto:ramon77sousa@email.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/seuuser">
+  <a href="[https://linkedin.com/in/ramonlima](https://www.linkedin.com/in/ramon-lima-1401b6334?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
