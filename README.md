@@ -9,9 +9,5 @@ My name is Ramon, and I am an undergraduate student in Computer Science at the S
 ## Skills 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,github,vscode&perline=4" />
 </p>
