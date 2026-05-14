@@ -9,5 +9,5 @@ My name is Ramon, and I am an undergraduate student in Computer Science at the S
 ## Skills 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,github,vscode&perline=4" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,java,spring,c,cpp,postgres,flask,python&perline=6" />
 </p>
