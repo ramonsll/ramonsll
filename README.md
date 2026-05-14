@@ -8,9 +8,25 @@ My name is Ramon, and I am an undergraduate student in Computer Science at the S
 
 ## Skills ⋆˚࿔
 
+## Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,java,spring,python,flask,postgres,mysql,c,cpp,git,github,vscode,idea&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs&perline=9" />
 </p>
+
+## Backend 
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,flask,c, cpp&perline=9" />
+</p>
+
+## Database
+
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb, dbeaver&perline=9" />
+  
+## Tools
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea, figma, notion&perline=9" />
 
 ## Contact Me ✧.*
 
@@ -21,4 +37,8 @@ My name is Ramon, and I am an undergraduate student in Computer Science at the S
   <a href="https://www.linkedin.com/in/ramon-lima-1401b6334">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramonsll&show_icons=true&theme=tokyonight" />
 </p>
