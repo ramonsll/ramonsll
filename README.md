@@ -12,7 +12,7 @@ My name is Ramon, and I am an undergraduate student in Computer Science at the S
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,java,spring,python,flask,postgres,mysql,c,cpp,git,github,vscode,idea&perline=9" />
 </p>
 
-## Contact Me 📬
+## Contact Me ✧.*
 
 <p align="center">
   <a href="mailto:ramon77sousa@gmail.com">
