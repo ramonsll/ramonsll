@@ -8,22 +8,22 @@ My name is Ramon, and I am an undergraduate student in Computer Science at the S
 
 ## Skills ⋆˚࿔
 
-### 💻 Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs&perline=6" />
 </p>
 
-### ⚙️ Backend 
+### Backend 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,flask,c,cpp&perline=6" />
 </p>
 
-### 🗄️ Database
+### Database
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6" />
 </p>
 
-### 🛠️ Tools
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&perline=6" />
 </p>
