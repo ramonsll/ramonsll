@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ramongit.gif" width: 50% />
+  <img src="ramongithub.gif" width: 50% />
 </p>
 
 ## About me ✧.*
