@@ -20,7 +20,7 @@ My name is Ramon, and I am an undergraduate student in Computer Science at the S
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgres,mariadb,dbeaver,mysql&perline=6" />
 </p>
 
 ### 🛠️ Tools
